@@ -1,2 +1,2 @@
-echo "*.php" > .gitignore
-echo "/uploads" >> .gitignore
+*.php
+/uploads
